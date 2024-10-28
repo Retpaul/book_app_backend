@@ -95,7 +95,7 @@ Postman Documentation
 The API documentation, grouped by functionality, is available as a Postman collection:
 
 Endpoints:
-User Authentication: /api/register, /api/login
+User Authentication: /api/auth/register, /api/auth/login
 Profile Management: /api/profile
 Book Management: /api/books, /api/books/:id
 Authorization: Demonstrates JWT-based authorization for protected routes.
